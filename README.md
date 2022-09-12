@@ -29,3 +29,7 @@ Python is a very powerful language and I think it is a great tool to use for tex
 #### Skills Exercised
 My main experience with this assignment was to refresh my python skills. Working with the python syntax, data structures, and file I/O were all reviews of my past experience with the language. One new skill I picked up was using python's regex capabilities. I had never  worked with regexes in python but I found the `re` module very intuitive.
 
+## Homework 2
+You can see the [code here](Homework2/PortfolioAssignment2.ipynb)
+### Description
+This Jupyter notebook contains explanations and demonstrations of some important functionalities of the NLTK library.
