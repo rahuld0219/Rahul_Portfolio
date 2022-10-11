@@ -1,0 +1,544 @@
+[if lt IE 9]>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+<!
+[endif]
+/// PAGE LOADING SCREEN ///
+///// CSS /////
+[if !IE]><!
+<!
+[endif]
+Schema.org markup for Google+
+Twitter Card data
+Open Graph data
+Google Tag Manager
+End Google Tag Manager
+Google Tag Manager (noscript)
+End Google Tag Manager (noscript)
+This website uses cookies to ensure you get the best experience on our website.
+Learn more
+Accept and close
+[if lte IE 9]>
+<p style="margin:20px 0;padding:20px;background-color:#ffc107;color:black;">You are using an <strong>outdated</strong> browser.
+Please <a href="https://browsehappy.com/" style="color:black;">upgrade your browser</a> to improve your experience and security.</p>
+<!
+[endif]
+Skip to main content
+Skip to acknowledgement of country
+Skip to footer
+Welcome to the Australian Museum website
+Search
+Toggle Navigation
+Close Navigation
+Visit & Book   dropdown menu
+In this section, find out everything you need to know about visiting the Australian Museum, how to get here and the extraordinary exhibitions on display.
+Check out the What's On calendar of events, workshops and school holiday programs.
+Back
+Visit & Book
+Overview
+What's on  submenu
+Back
+What's on
+Everything
+Exhibitions
+Kids at the Museum
+School holidays
+Special events
+Talks and screenings
+Tours and workshops
+Exhibition virtual tours
+Audio guides of exhibitions
+Travelling exhibitions
+School programs and excursions
+Close Navigation
+Admission information
+Accessibility and inclusion
+Membership
+Location and access
+Parking and public transport
+Food and dining
+Museum Shop
+Book a group visit  submenu
+Back
+Book a group visit
+Overview
+Vacation care groups
+Tourism packages
+School excursions at the Australian Museum
+Group visit information
+Close Navigation
+Multilingual visit information
+Functions and venues
+Australian Museum Map
+Audio guides of exhibitions
+Visitor safety during COVID-19
+Close Navigation
+Discover & Learn   dropdown menu
+In this section, there's a wealth of information about our collections of scientific specimens and cultural objects.
+Come and explore what our researchers, curators and education programs have to offer.
+Back
+Discover & Learn
+Overview
+Museum news  submenu
+Back
+Museum news
+Overview
+Australian Museum Blog
+AM Inside Out
+Audio podcasts
+Explore
+Media Centre
+Close Navigation
+For teachers and students
+Australian Museum collections  submenu
+Back
+Australian Museum collections
+Overview
+Natural Sciences collection areas  submenu
+Back
+Natural Sciences collection areas
+Overview
+Arachnology
+Entomology
+Herpetology
+Ichthyology
+Malacology
+Mammalogy
+Marine Invertebrates
+Mineralogy
+Ornithology
+Palaeontology
+Frozen Tissue collection
+Close Navigation
+Aboriginal and Torres Strait Islander Collection
+Pacific Collection
+World Cultures Collection
+Museum Archives and Research Library  submenu
+Back
+Museum Archives and Research Library
+Overview
+Museum Archives
+Research Library
+Photographic collections
+Historic expeditions
+The Scott sisters collection
+John Gould: books and illustrations
+Close Navigation
+Collection Care and Conservation
+Collection donations
+Close Navigation
+First Nations
+Climate change
+Sustainability
+Research and expeditions  submenu
+Back
+Research and expeditions
+Overview
+Australian Museum Research Institute
+Australian Centre for Wildlife Genomics
+Lord Howe Island expeditions
+South West Pacific expedition
+Scotia Arc expeditions
+Timor-Leste expedition
+Southern French Polynesia expedition
+Kermadec Island expedition
+Historic expeditions
+Solomon Islands expeditions
+Close Navigation
+Animal factsheets  submenu
+Back
+Animal factsheets
+Overview
+Spiders
+Mammals
+Australia's native frogs
+Fishes
+Worms
+Birds
+Reptiles
+Insects
+Molluscs
+Plankton
+Sea squirts and sea tulips
+Sea stars and sea urchins
+Jellyfish, anemones and corals
+Centipedes and millipedes
+Australian Bats
+Crustaceans
+Dangerous Australian animals
+Australia's extinct animals
+Close Navigation
+Australia over time  submenu
+Back
+Australia over time
+Overview
+Megafauna
+What are fossils?
+submenu
+Back
+What are fossils?
+Overview
+Fossil sites of Australia
+Close Navigation
+Evolving landscape
+Australia’s extinct animals
+Close Navigation
+Dinosaurs and their relatives  submenu
+Back
+Dinosaurs and their relatives
+Overview
+Dinosaur fact sheets
+Australian dinosaurs
+The Mesozoic era
+Close Navigation
+Science of life  submenu
+Back
+Science of life
+Overview
+Biodiversity
+Human evolution
+COVID-19 and zoonotic diseases
+Close Navigation
+Earth science  submenu
+Back
+Earth science
+Overview
+What are minerals?
+Mineral properties
+Shaping the Earth
+Gemstones
+Geological deposits and resources
+Close Navigation
+Journals & Publications  submenu
+Back
+Journals & Publications
+Overview
+Search our Journals
+Museum Publications
+Close Navigation
+Research Library
+Object and species identification
+Close Navigation
+Get involved   dropdown menu
+In this section, explore all the different ways you can be a part of the Museum's groundbreaking research, as well as come face-to-face with our dedicated staff.
+Join us, volunteer and be a part of our journey of discovery!
+Back
+Get involved
+Overview
+About the Australian Museum
+Become a Member
+Donate to the Museum
+Australian Museum Research Institute (AMRI)  submenu
+Back
+Australian Museum Research Institute (AMRI)
+Overview
+Natural science research and collections
+Science Research Strategy
+Australian Museum Lizard Island Research Station
+Australian Centre for Wildlife Genomics
+Collection Care and Conservation
+Awards & Fellowships
+Scientific internships
+AMRI Seminars and Lectures
+Enter the Eureka Prizes!
+Close Navigation
+Australian Museum Eureka Prizes
+Work at the Museum
+Student opportunities
+Citizen science  submenu
+Back
+Citizen science
+Overview
+FrogID
+DigiVol
+Australasian Fishes project
+Date a Fossil
+Close Navigation
+Volunteer
+Partnerships
+Commercial services
+Touring exhibitions
+Media Centre
+Contact us
+Close Navigation
+What's On
+AM Shop
+Opening Hours
+10am-5pm Mon-Sun 10am-9pm Wed Closed Christmas Day
+Where to find us
+1 William Street Sydney NSW 2010  Australia
+Close Navigation
+Search
+What's On
+AM Shop
+Homepage Discover & Learn Animal factsheets Australia's native frogs Cane Toad
+Cane Toad
+Scientific name:   Rhinella   marina
+Alternative name/s:
+Giant Toad; Marine Toad
+Author(s)
+FrogID Team
+Updated
+04/02/21
+Read time
+2 minutes
+Share this page:
+Share on Facebook
+Share on Twitter
+Share on Linkedin
+Share via Email
+Print this page
+Click to enlarge image
+Toggle Caption
+Cane Toad
+Image: Jodi Rowley
+© Australian Museum
+Fast Facts
+Classification
+Species
+marina
+Genus
+Rhinella
+Family
+Bufonidae
+Order
+Anura
+Phylum
+Amphibia
+Kingdom
+Animalia
+Size Range
+15 cm
+Habitats
+closed scrub, grassland, low open forest, low shrubland, open forest, open woodland, woodland
+Feeding Habits
+acariphagous
+Description A very large species of toad reaching up to 15 cm in body length, and occasionally attaining 25 cm.
+Adult toads have a light brown or yellow-brown back, with darker patches and spots.
+The skin is dry and warty.
+The belly is white or yellow, sometimes with grey mottling.
+The pupil is horizontal, and the iris is gold with distinct black spotting.
+Fingers are unwebbed and toes are fully webbed.
+Young toads often have a grey back, with distinct yellow or red spots or patches.
+Adults have large parotid glands on the shoulders, which secrete toxins when the toad is under threat.
+These toxins often kill Australian native predators that try to eat the toad, which has resulted in massive ecological damage as the toad expands into new areas in vast numbers.
+Similar Species Adult toads, with their very large body size, dry warty skin, and large parotoid glands on the shoulders, do not look similar to any of Australia's native species.
+Young toads, however, look similar to many  Uperoleia  and  Crinia  species, but lack colourful markings on the groin and backs of the thighs.
+Distribution A well known invasive species.
+It was originally introduced to QLD in 1935 and since then has spread very rapidly throughout most of QLD, west through the northern NT to the Kimberley region in WA, as well as south to the mid north coast of NSW.
+It is continuing to spread west very rapidly.
+Research is currently underway to determine how to reduce the toad's growing population.
+Breeding Biology Eggs are laid as very long strings in nearly all fresh water bodies.
+Tadpoles can reach a total length of up to 3 cm, and are black in colour.
+They often swim in large schools at the bottom of water bodies and take one month to develop into toads, although tadpoles in colder areas can take longer, and tadpoles in warm shallow water can develop in just 10 days.
+Breeds during any time of the year.
+Save our frogs!
+Australia's frogs need your help.
+Donate to the Australian Museum's FrogID project and you'll be supporting essential frog research and conservation.
+Donate today
+frog
+dangerous australians
+toads
+pest
+Back to top of main content
+Go back to top of page
+Also in this section
+Beautiful Nursery Frog
+Cophixalus concinnus
+Southern Sandhill Frog
+Arenophryne xiphorhyncha
+Rattling Nursery Frog
+Cophixalus crepitans
+Graceful Tree Frog
+Litoria gracilenta
+Red-crowned Toadlet
+Pseudophryne australis
+Haswell's Froglet
+Paracrinia haswelli
+Stony Creek Frog
+Litoria lesueuri
+Robust Whistling Frog
+Austrochaperina robusta
+Noisy frogs - What can I do?
+Australia's Lost Frogs
+Peron's Tree Frog
+Litoria peronii
+Fletcher's Frog
+Lechriodus fletcheri
+You may also be interested in...
+Wildlife of Sydney
+Explore the unique habitats of Sydney's wildlife and what kind of animals will you find in and around Sydney Harbour.
+Habitats Animals resources Fishes of Sydney Harbour
+Find out more
+Molluscs
+Learn more about this unique and varied animal group, molluscs are very diverse in appearance and habitat.
+Malacology
+Read more
+Sea stars and sea urchins
+Did you know that Sydney alone has more than 120 species of echinoderms?
+Step into the underwater world and learn more about these spiny creatures.
+Echinoderms Marine life
+Read more
+Jellyfish, anemones and corals
+Discover factsheets from this ancient group of animals that have lived on earth for more than 650 million years.
+Cnidarians
+Learn more
+Sea squirts and sea tulips
+Discover sea squirts and sea tulips - with over 80 species in Sydney alone.
+The Australian Museum's Marine Invertebrate collection houses more than 1600 urochordates (predominantly ascidian) lots, mainly from Australia and Antarctica.
+Marine life
+Learn more
+Glossary of animal biology terms
+A glossary of terms and definitions used in biology and related disciplines such as zoology, zoogeography, palaeontology, animal taxonomy and classification and evolutionary biology.
+Discover more
+What is a spider?
+Spiders and their relatives are called arachnids.
+Scientist have grouped them together into a class called Arachnida.
+Arachnology is the study of this group of animals
+Read more
+Reptiles
+Discover a diverse group of animals including turtles, lizards, snakes and crocodiles, including the largest living reptile in the world: the Australian Crocodile!
+Herpetology
+Find out more
+Plankton
+Learn more about the varieties of plankton - phytoplankton, zooplankton and holoplankton - and learn why the Bluewater Zone is so important to the survival of the Great Barrier Reef.
+Marine life
+Read more
+Drop Bear
+This urban legend focuses on bush walkers having been known to be 'dropped on' by drop bears, resulting in injury including mainly lacerations and occasionally bites.
+Identification Habitat Danger to humans Hoax
+Find out more
+Birds
+Find out more about the unique and ingenious ways Australian birds have adapted to habitats.
+The Australian Museum has one of the largest ornithological collections in the Southern Hemisphere, containing a wide cross-section of these feathered animals.
+Ornithology
+Find out more
+Dangerous Australian animals
+Meet some of Australia's most dangerous animals and learn about the different ways they poison and catch their prey.
+The Australian Museum has an extensive collection of Australia's deadliest animals to find out more about why they are so dangerous to humans.
+Learn more
+You have reached the end of the main content.
+Go back to start of main content
+Go back to top of page
+The Australian Museum respects and acknowledges the Gadigal people as the First Peoples and Traditional Custodians of the land and waterways on which the Museum stands.
+—
+We acknowledge Elders past, present and emerging.
+This website may contain names, images and voices of deceased Aboriginal and Torres Strait Islander peoples.
+Go back to top of page
+Opening Hours
+10am-5pm Mon-Sun 10am-9pm Wed Closed Christmas Day
+Address
+1 William Street Sydney NSW 2010  Australia
+Phone
++61 2 9320 6000
+www.australian.museum
+Copyright © 2022  The Australian Museum
+ABN 85 407 224 698
+View Museum News
+Skip Footer Navigation
+Visit & Book
+Toggle  Visit & Book  submenu
+What's on
+Admission information
+Accessibility and inclusion
+Membership
+Location and access
+Parking and public transport
+Food and dining
+Museum Shop
+Book a group visit
+Multilingual visit information
+Functions and venues
+Australian Museum Map
+Audio guides of exhibitions
+Visitor safety during COVID-19
+Discover & Learn
+Toggle  Discover & Learn  submenu
+Museum news
+For teachers and students
+Australian Museum collections
+First Nations
+Climate change
+Sustainability
+Research and expeditions
+Animal factsheets
+Australia over time
+Dinosaurs and their relatives
+Science of life
+Earth science
+Journals & Publications
+Research Library
+Object and species identification
+Get involved
+Toggle  Get involved  submenu
+About the Australian Museum
+Become a Member
+Donate to the Museum
+Australian Museum Research Institute (AMRI)
+Australian Museum Eureka Prizes
+Work at the Museum
+Student opportunities
+Citizen science
+Volunteer
+Partnerships
+Commercial services
+Touring exhibitions
+Media Centre
+Contact us
+About
+Toggle  About  submenu
+Our Organisation
+Our history
+Media Centre
+Connect with us
+The Australian Museum Facebook page
+The Australian Museum Twitter account
+The Australian Museum on Instagram
+The Australian Museum Linkedin profile
+The Australian Museum YouTube channel
+Join our Newsletter
+Receive the latest news on events, exhibitions, science research and special offers.
+Subscribe Today!
+Site map
+Privacy
+Social Media Guidelines
+Terms of Entry
+Copyright © 2022
+The Australian Museum is a New South Wales Government funded cultural institution.
+Back to top
+You have reached the end of the page.
+Thank you for reading.
+Acknowledgement of Country
+The Australian Museum respects and acknowledges the Gadigal people as the First Peoples and Traditional Custodians of the land and waterways on which the Museum stands.
+Image credit: gadigal yilimung (shield) made by Uncle Charles  Chicka  Madden
+Close modal dialog
+Search Modal Window
+Search website
+Submit Search
+Close Modal Dialog
+Newsletter Signup Modal Window
+Close Modal Dialog
+AM Foundation Donation Modal Window
+Close Modal Dialog
+AM Foundation Donation Modal Window - Alternative
+Close Modal Dialog
+Ask An Expert (External) Modal Window
+Close Modal Dialog
+Ask An Expert (Internal) Modal Window
+Close Modal Dialog
+Ask An Expert (Testing) Modal Window
+Close Modal Dialog
+///// JAVASCRIPT /////
+image slider reveal element - Turns all `.cocoen` elements into Cocoens
+Malihu Custom Scrollbar
+Crucial Javascript components have loaded
+Add a slight delay to avoid flash of unstyled content
+Headroom - hide/reveal header on scroll
+Flexslider
+Crucial Javascript components have loaded
+Masonry
+FancyBox
+Query for cookies consent pop-pop
+tablesorter logic for FilteredTableBlock
+Facebook - load script if any facebook feed block found
+Twitter - load script if any twitter feed block found
+Document viewer

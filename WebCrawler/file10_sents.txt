@@ -1,0 +1,373 @@
+InstanceBegin template="/Templates/caherps2.dwt" codeOutsideHTMLIsLocked="false"
+A Guide to the Amphibians
+and  Reptiles of California
+InstanceBeginEditable name="title"
+Coastal Tailed Frog  -  Ascaphus truei
+Stejneger, 1899
+(= Pacific Tailed Frog)
+InstanceEndEditable
+Click on a picture  for a larger view
+Description
+|    Taxonomy
+|   Original Description
+|   Scientific Name
+|   Alternate Names
+|   Similar Herps
+|   References
+|    Conservation Status
+InstanceBeginEditable name="side1"
+Red:  Range in California
+Click on the map for a topographical view
+Map with California County Names
+Northwest Page
+InstanceEndEditable
+#BeginLibraryItem "/Library/observation.lbi"     #EndLibraryItem
+InstanceBeginEditable name="top"
+Adult, Del Norte County
+Adult, Del Norte County
+Adult, Del Norte County
+Underside of adult, Del Norte County
+Adult, Del Norte County
+Adult, Del Norte County
+Adult, Del Norte County
+Adult, Del Norte County
+Adult, Del Norte County ©  Alan Barron
+Adult female, Mendocino County (captured and handled under state Scientific Collecting Permit and released at point of capture.)
+©  Adam Clause
+Adult male, Humboldt County ©  Spencer Riffle
+Adult male, Del Norte County
+Adult, Del Norte County
+Adult, Humboldt County  ©  Zachary Lim
+Adult male, Humboldt County ©  Spencer Riffle
+Tailed frog skeleton, National Museum of Natural History
+Tailed frog pupils are Vertical
+Coastal Tailed Frogs From Outside of California
+Adult, Pacific County, Washington
+Adult, Pacific County, Washington
+The "Tail" or Male Copulatory Organ
+Adult male Coastal Tailed Frog showing his tail-like copulatory organ.
+This organ, an extension of the cloaca, is used to transfer sperm into the female's cloaca during amplexus.
+She then holds the fertilized eggs for 9 or 10 months when she swims under a large stone on the bottom of a fast-moving creek and attaches the eggs
+to the bottom of the stone.
+This internal fertilization strategy lets tailed frogs breed in fast-moving water without the eggs washing away, which would happen if they were laid and fertilized on the surface of the water.
+Adult male, Humboldt County
+©  Spencer Riffle
+Adults in the Mating Season
+Adults in amplexus, Multnomah Co., Oregon © 2000  Brad Moon
+Tailed frog amplexus is inguinal - the male clasps the female around her pelvis, unlike most of the frogs in California, which use axial amplexus - the male grasps the female around her forelimbs.
+When breeding, adult males develop rough pads on their feet called Nuptial Pads which help them to grab and hang on to the slippery skin of a female during amplexus.
+Humboldt County                      ©  Spencer Riffle
+Tadpoles
+Tadpole feeding on a rock in a still pool in a small creek, in daylight,
+Multnomah County, Oregon
+Most  tadpoles have mouths at  the front of the head, but the mouth of a Coastal Tailed Frog tadpole is underneath the head, which is flattened.
+The mouth position and head shape, along with  specialized folds that create suction, help a tadpole cling to a rock surface while keeping its body close to the rock.
+This allows a tailed frog tadpole to scrape food off the surface of underwater rocks in fast-moving creeks without letting the swift current wash it downstream.
+Tadpole feeding at night (underwater)
+Del Norte County, showing the
+white spot on the tail tip.
+Underside of the head of a tadpole, Del Norte County, showing the large flat mouth underneath the head.
+Tadpole, Del Norte County
+©  Alan Barron
+Tailed frog tadpoles (bottom) are often found near the larvae of  Coastal Giant Salamanders  (top).
+Tadpole underwater, Humboldt County
+©  Spencer Riffle
+Tadpole underwater, Humboldt County
+©  Spencer Riffle
+Tadpole underwater, Humboldt County
+©  Spencer Riffle
+Tadpole tail, Humboldt County
+©  Spencer Riffle
+Tadpole tail, Humboldt County
+©  Spencer Riffle
+Underside of tadpole, Humboldt County
+©  Spencer Riffle
+Underside of tadpole, Humboldt County
+©  Spencer Riffle
+Mature four-legged recently-metamorphosed tailed frog which has not yet absorbed its tail, Del Norte County ©  Alan Barron
+Habitat
+Habitat, Mendocino County
+Habitat, Del Norte County
+Habitat, Del Norte County
+Habitat, Del Norte County
+Habitat, Del Norte County
+More pictures of this frog and its habitat from the Northwest can be seen  here .
+Short Videos
+Several views of  a male Coastal Tailed Frog   at a small forested creek in the Oregon Cascade Mountains.
+A Coastal Tailed Frog   tadpole forages on the rocks of a small pool in  a small creek in the Oregon Cascade Mountains.
+You can also see its unique sucker-like mouth working from the other side of the glass of a small aquarium.
+Description
+Size
+A small frog, aduts are 1-2 inches in length (2.5 - 5.1 cm).
+(Stebbins, 2003)
+Appearance
+A flat, toadlike frog with fairly rough skin.
+The pupil is  vertical .
+The fingertips are hardened like claws to help the frog crawl among rocks on stream bottoms.
+Lungs are reduced in size to decrease buoyancy, and respiration takes place through the skin.
+Color and Pattern
+Coloring matches the colors of rocks around the stream inhabited - usually olive, brown, gray, or reddish above with yellow and gray mottling, a pale yellow or greenish triangle on the snout and a dark eye stripe.
+Male/Female Differences
+Males are smaller than females and have a "tail," which is actually a  copulatory organ.
+Larvae (Tadpoles)
+Tadpoles are black or brown, usually with a white spot on the tip of a long tail, and a large sucker-like mouth, which they use to cling to rocks in the fast-moving stream.
+Life History and Behavior
+Activity
+Mostly nocturnal, but often seen moving on creek banks in daylight.
+Adults are usually active from April to October, depending on the locality.
+Tadpoles  emerge at night to forage on rocks.
+At times they can be found out foraging in daylight.
+Defense
+To escape predators Tailed Frogs jump into the water, tuck in their limbs, and let the water quickly carry them downstream away from danger.
+Longevity
+Adults are relatively long-lived - it has been speculated that they can live up to 15 - 20 years.
+Voice
+A male tailed frog has no vocal sacs and apparently does not vocalize, most likely due to the noisy stream environment it inhabits which would overwhelm any vocalization.
+Tailed frogs also have no external ear membrane to help them hear sounds.
+(Other frog species that inhabit fast-moving waters do vocalize with a sound too high-pitched to be heard by humans that can be heard over the noise of the water, and others produce sounds underwater.)
+Diet and Feeding
+Adults and juveniles eat  a wide variety of invertebrates, whatever is in season.
+Adults feed along stream banks and in the nearby forest at night and sometimes during daylight.
+Tadpoles  emerge at night to forage on rocks.
+They sometimes crawl up onto rocks out of the water, probably to feed.
+Tadpoles have been found with ingested diatoms, algae, and desmids, and conifer pollen in their guts.
+Reproduction
+Reproduction is aquatic.
+Fertilization is internal.
+Amplexus is inguinal - the male grasps the female around her waist.
+Unlike all other frogs in the world, male Tailed Frogs do not fertilize the female's eggs in water, the eggs are fertilized internally by the male.
+(Other female frogs lay their eggs in the water and then the male fertilizes them.)
+This internal fertilization strategy has evolved to let Tailed Frogs breed more successfully in fast-moving water without the eggs and sperm washing away, which could happen if the eggs were laid and fertilized in the water.
+Ascaphus  is the only genus of frogs that fertilizes internally through copulation.
+During successful mating, the male's tail-like organ, an extension of his cloaca, becomes erect and directed forward.
+The male, which is smaller than the female, clasps his arms around the female's pelvis (in what is called inguinal amplexus) and he then inserts his erected cloacal extension into the female's cloaca to transfer his sperm.
+This copulation lasts 24 - 30 hours.
+The female then stores the sperm, using it to fertilize the eggs months later.
+Then she lays the eggs under large rocks in the water.
+Reproduction is often delayed until four or five years after a frog has transformed from a tadpole.
+Breeding been reported in the spring and summer in coastal populations, and in the fall in Trinity County.
+(Thomson, Wright, & Shaffer, 2016)
+Adults do not travel to a breeding location, they breed in the cold, swift streams they inhabit.
+Females  may  breed only every other year, but they can store viable sperm for a year.
+(Thomson, Wright, & Shaffer, 2016)
+By mid-August to September, males have developed black, horny tubercles on each forefoot and forearm.
+These help a male hold on to a female during amplexus.
+Males of this species do not have vocal sacs so they don't call to attract a mate as most frogs do.
+It is not known exactly how males and females find each other and how females choose a mate.
+They most likely meet using chemical signals.
+An apparent  courtship attempt involving the similar species  Ascaphus montanus  was observed at 6:30 PM 8/6/17 in Idaho (Barton, Lashley, Altig, Herpetological Review 49(2), June 2018.)
+In a small shallow pool of water, the male approached the female and placed his front feet on her.
+The female rolled over on her back and remained motionless.
+The male took several different positions but did not attempt amplexus and eventually he departed.
+After the male left, the female remained motionless for several minutes more before leaving the pool.
+Eggs
+The female  lays her eggs in spring and summer after the spring runoff, generally July to September in California populations.
+(Thomson, Wright, & Shaffer, 2016)
+An average clutch of 40 eggs are laid in continuous strings under large rocks.
+Eggs hatch into tadpoles in 3 - 6 weeks.
+Little is known about Coastal Tailed Frog nest sites.
+On August 3rd, 2005 a nest site in Mendocino County was found within a seep about 39 inches (1 m) above the confluence of the seep and a fish-bearing stream .
+The canopy vegetation was   primarily 40-year-old Coast Redwood and Douglas-fir enclosed 89 per cent.
+25 eggs were attached in a continuous string to the bottom of a rock measuring about 5 x 4 1/2 inches (126 × 118 mm).
+On August 18th, all eggs had hatched and 5 tadpoles were seen in the seep.
+Matthew O. Goldsworthy Herpetological Review 38(1), 2007
+Tadpoles and Young
+Metamorphosis takes from one to two years in coastal populations and up to four years in montane populations.
+(Thomson, Wright, & Shaffer, 2016)
+Tadpoles always spend at least one winter in the stream.
+Where recently-transformed juveniles go after metamorphosis is not well known, but it appears that they disperse into the forest in the fall.
+Habitat
+Inhabits cold, clear, permanent rocky streams in wet forests.
+They do not inhabit ponds or lakes.
+A rocky streambed is necessary for protective cover for adults, eggs, and larvae.
+After heavy rains, adults may be found in the woods away from the stream.
+(I found two adults under rocks about twenty meters from a creek in May.)
+Occasionally they inhabit  areas without trees.
+(According to Stebbins,  A. truei  quickly established itself on treeless terrain created by the eruption of Mt.
+St. Helens in Washington.)
+Geographical Range
+The range of this frog in California is from near Anchor Bay, Mendocino county, north along the coast to the Oregon Border and as far east as near Big Bend, Shasta County.
+The species ranges farther north through the Cascades Mountains of Oregon and Washington and along the north coast of British Columbia, almost to Alaska.
+Elevational Range
+From near sea level to 8400 ft. (2560 m.)
+Notes on Taxonomy
+Two species of  Ascaphus, A. truei , and   A. montanus ,  the Rocky Mountain Tailed Frog, are  recognized.
+Alternate and Previous Names  (Synonyms)
+Western Tailed Frog
+Pacific Tailed Frog
+Ascaphus truei  - Tailed Frog (Stebbins 1954, 1966, 1985, 2003)
+Ascaphus truei  -  Amreican Bell Toad (American Ribbed Toad) (Wright and Wright 1949)
+Ascaphus truei  - American Bell-toad (Storer 1925)
+Ascaphus truei  - American Bell-toad (Grinnell and Camp 1917)
+Ascaphus truei  (Stejneger 1899)
+Conservation Issues   ( Conservation Status )
+Tailed Frogs are extremely sensitive to warm temperatures.
+Tailed Frog populations may be severely reduced as a result of the sedimentation and warming of streams caused by timber harvesting and road building, but   there is no published evidence of a broad scale decline.
+(Lannoo 2005)
+Taxonomy
+Family
+Leiopelmatidae
+Tail-wagging Frogs
+Mivart, 1869
+Genus
+Ascaphus
+Tailed Frog
+Stejneger, 1899
+Species
+truei
+Coastal Tailed Frog
+Stejneger, 1899
+Original Description
+Stejneger, 1899 Tailed Frog
+#BeginLibraryItem "/Library/Elin Beltz Descriptions.lbi"   from  Original Description Citations for the Reptiles and Amphibians of North America  © Ellin Beltz   #EndLibraryItem
+Meaning of the Scientific Name
+Ascaphus : - Greek: a - without, and Greek: skaphis spade - notes the lack of a metatarsal spade
+truei : - honors True, Frederick W.
+#BeginLibraryItem "/Library/Ellin Beltz Names.lbi"   from  Scientific and Common Names  of the Reptiles and Amphibians of North America - Explained   © Ellin Beltz  #EndLibraryItem
+Related or Similar  California Frogs
+Rana boylii -  Foothill Yellow-legged Frog
+Rana aurora -  Northern Red-legged Frog
+Ascaphus montanus  - Rocky Mountain Tailed Frog
+More Information and References
+#BeginLibraryItem "/Library/Reference Links.lbi"
+California Department of Fish and Wildlife
+#EndLibraryItem
+#BeginLibraryItem "/Library/Reference Links Amphibians.lbi"
+AmphibiaWeb  #EndLibraryItem
+#BeginLibraryItem "/Library/all ca only.lbi"  Stebbins, Robert C., and McGinnis, Samuel M.   Field Guide to Amphibians and Reptiles of California: Revised Edition  (California Natural History Guides) University of California Press, 2012.
+Stebbins, Robert C.  California Amphibians and Reptiles.
+The University of California Press, 1972.
+Flaxington, William C.  Amphibians and Reptiles of California: Field Observations, Distribution, and Natural History .
+Fieldnotes Press, Anaheim, California, 2021.
+#EndLibraryItem   #BeginLibraryItem "/Library/all herps books.lbi"  Samuel M. McGinnis and Robert C. Stebbins.
+Peterson Field Guide to Western Reptiles & Amphibians .
+4th Edition.
+Houghton Mifflin Harcourt Publishing Company, 2018.
+Stebbins, Robert C.  A Field Guide to Western Reptiles and Amphibians .
+3rd Edition.
+Houghton Mifflin Company, 2003.
+Behler, John L., and F. Wayne King.
+The Audubon Society Field Guide to North American Reptiles and Amphibians .
+Alfred A. Knopf, 1992.
+Powell, Robert., Joseph T. Collins, and Errol D. Hooper Jr.  A Key to Amphibians and Reptiles of the Continental United States and Canada .
+The University Press of Kansas, 1998.
+#EndLibraryItem
+#BeginLibraryItem "/Library/nw amphibians.lbi"  Corkran, Charlotte & Chris Thoms.
+Amphibians of Oregon, Washington, and British Columbia .
+Lone Pine Publishing, 1996.
+Jones, Lawrence L. C. , William P. Leonard, Deanna H. Olson, editors.
+Amphibians of the Pacific Northwest .
+Seattle Audubon Society, 2005.
+Leonard et.
+al.
+Amphibians of Washington and Oregon .
+Seattle Audubon Society, 1993.
+Nussbaum, R. A., E. D. Brodie Jr., and R. M. Storm.
+Amphibians and Reptiles of the Pacific Northwest .
+Moscow, Idaho: University Press of Idaho, 1983.
+#EndLibraryItem
+#BeginLibraryItem "/Library/all frogs Books.lbi"
+Bartlett, R. D. & Patricia P. Bartlett.
+Guide and Reference to the Amphibians of Western North America (North of Mexico) and Hawaii .
+University Press of Florida, 2009.
+Elliott, Lang, Carl Gerhardt, and Carlos Davidson.
+Frogs and Toads of North America, a Comprehensive Guide to their Identification, Behavior, and Calls .
+Houghton Mifflin Harcourt, 2009.
+Lannoo, Michael (Editor).
+Amphibian Declines: The Conservation Status of United States Species .
+University of California Press, June 2005.
+Storer, Tracy I.
+A Synopsis of the Amphibia of Californi a.
+University of California Press Berkeley, California 1925.
+Wright, Albert Hazen and Anna Wright.
+Handbook of Frogs and Toads of the United States and Canada .
+Cornell University Press, 1949.
+#EndLibraryItem
+Mattison, Chris.
+Frogs and Toads of the World .
+Cassell Illustrated, London, 1992.
+Robert C. Thomson, Amber N. Wright, and H. Bradley Shaffer.
+California Amphibian and Reptile Species of Special Concern .
+University of California Press, 2016.
+Joseph Grinnell and Charles Lewis Camp.
+A Distributional List of the Amphibians and Reptiles of California.
+University of California Publications in Zoology Vol.
+17, No.
+10, pp.
+127-208.
+July 11, 1917.
+InstanceEndEditable
+Conservation Status
+The following conservation status listings for this animal are taken from the July 2022 State of California "Special Animals List" and the July 2022 "State and Federally Listed Endangered and Threatened Animals of California" list, both of which are produced by multiple agencies  and can be downloaded here:  https://www.wildlife.ca.gov/Data/CNDDB/Plants-and-Animals .
+You can check this link to see if there are more current lists.
+A detailed explanation of the meaning of the status  listing symbols can be found on the
+Special Animals List.
+For quick reference, I have copied some of them on my  Special Status Information page .
+If no status is listed here, the animal is not included on either  list.
+This most likely indicates that there are no serious conservation concerns for the animal.
+To find out more about an animal's status you can go to the NatureServe and IUCN websites to check their rankings.
+InstanceBeginEditable name="General"
+InstanceEndEditable
+Organization
+Status Listing
+Notes
+NatureServe Global  Ranking
+InstanceBeginEditable name="GRank"  G4  InstanceEndEditable
+InstanceBeginEditable name="GRank2"  Apparently Secure  InstanceEndEditable
+NatureServe State  Ranking
+InstanceBeginEditable name="SRank"  S3S4  InstanceEndEditable
+InstanceBeginEditable name="SRank2"  Vulnerable - Apparently Secure  InstanceEndEditable
+U.S.
+Endangered Species Act (ESA)
+InstanceBeginEditable name="ESA"  None  InstanceEndEditable
+InstanceBeginEditable name="ESA2]"   InstanceEndEditable
+California Endangered Species Act (CESA)
+InstanceBeginEditable name="CESA"  None  InstanceEndEditable
+InstanceBeginEditable name="CESA2"  None  InstanceEndEditable
+California Department of Fish and Wildlife
+InstanceBeginEditable name="CDFW"  SSC  InstanceEndEditable
+InstanceBeginEditable name="CDFW2"  California Species of Special Concern   InstanceEndEditable
+Bureau of Land Management
+InstanceBeginEditable name="BLM"  None  InstanceEndEditable
+InstanceBeginEditable name="BLM2"   InstanceEndEditable
+USDA Forest Service
+InstanceBeginEditable name="USFS"  None  InstanceEndEditable
+InstanceBeginEditable name="USFS2"   InstanceEndEditable
+IUCN
+InstanceBeginEditable name="IUCN"  LC  InstanceEndEditable
+InstanceBeginEditable name="IUCN2"  Least Concern  InstanceEndEditable
+InstanceBeginEditable name="Bottom2"   InstanceEndEditable
+InstanceBeginEditable name="Bottom"
+InstanceEndEditable
+#BeginLibraryItem "/Library/bottom links.lbi"
+Home
+Site Map
+About Us
+Identification
+Lists
+Maps
+Photos
+More Lists
+CA Snakes
+CA Lizards
+CA Turtles
+CA Salamanders
+CA Frogs
+Contact Us
+Usage
+Resources
+Rattlesnakes
+Sounds
+Videos
+FieldHerping
+Yard Herps
+Behavior
+Herp Fun
+CA Regulations
+Beyond CA
+All Herps
+#EndLibraryItem
+Return to the Top
+#BeginLibraryItem "/Library/Copyright.lbi"   © 2000 -
+#EndLibraryItem
+InstanceEnd

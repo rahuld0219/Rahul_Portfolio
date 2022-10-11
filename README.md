@@ -17,6 +17,7 @@ This pdf document gives a general overview of Natural Language Processing.
 
 ## Text Processing With Python
 You can see the [code here](TextProcessing/TextProcessing.py)
+
 ### Description
 This program parses a CSV file containing employee data to ensure that the data is both standardized and correct. It then pickles the corrected data. Finally, it unpickles the data to print it out properly formatted.
 
@@ -67,3 +68,28 @@ This project explores NLTK's implementations of WordNet, SentiWordNet, and the L
 
 #### Skills Exercised
 With this project I was able to actually begin exploring how natural language processing works. I was always curious how language processing can be performed accurately without attempting to understand the intent and sentiment behind the words. I also was curious about how computers account for the nuanced context that comes with structured sentences. Getting to use sentiment analysis, similarity metrics, context analysis, and statistical analysis of texts was very helpful for me to start understanding more about NLP
+
+---
+
+## N-Grams
+You can see the [code here](Ngram)
+
+### Description
+This project explores N-grams, a useful form of sequence that aids in processing the patterns of language. N-grams can be used to determine probabilistic models for a language based on a training corpus. These models can be used to more accurately generate or interpret natural language since they can account for the natural contexts that words show up in most often.
+
+#### N-grams
+N-grams are groupings with a length of n of consecutive words from a text. The value of n can be any integer, such as n =1 (unigrams), n = 2 (bigrams), n = 3 (trigrams), etc. For example, the bigrams of the sentence “Hello my name is Rahul” would be [“Hello my”, “my name”, “name is”, “is Rahul”]. N-grams can be useful because they can provide the context around a word’s usage. By observing the probabilities of a word appearing around other words, we can begin to determine a probabilistic language model of the relationships between the usages of words in a body of text. N-grams can be used in models to interpret natural language, since by knowing the statistical chances of various words, errors and contextual meanings can be better understood. Additionally, by using this model, more natural sounding language can be produced since the model has a better “understanding” of the natural contexts in which words regularly show up. There can be issues with this, however since a probabilistic model will inherently be biased towards its source context text. This can hinder quality based on the quality of the text. 
+
+#### Skills Exercised
+Through this project I was able to learn about how probabilistic models can be used for NLP. I have some experience with probabilistic models but I was always curious about how context plays a role in NLP. This project gave me a good introduction to that.
+
+---
+
+## Web Crawler
+You can see the [code here](WebCrawler/WebCrawler.py)
+
+### Description
+This project explores Web Crawling and Scraping. Web Crawling is the process of finding links of sites that are related to a certain topic or goal. Web Scraping is the process of extracting data from websites that are crawled. Here, we used web crawling and scraping techniques to gather data about a certain topic (in my case, frogs). We then used the gathered data to create a corpus and knowledge base that can be used for other applications, such as a simple chatbot.
+
+#### Skills Exercised
+This project introduced a lot of new concepts to me as I have never done any sort of web scraping before. I learned to use python for web scraping and data processing. 

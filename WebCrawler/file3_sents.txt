@@ -1,0 +1,70 @@
+CentralNotice
+Cookbook:Frog
+From Wikibooks, open books for an open world
+Jump to navigation
+Jump to search
+Cookbook  |  Recipes  |  Ingredients    |  Seafood  |  Basic foodstuffs  |  Meat and poultry
+fried frog legs
+Frog  legs taste like a cross between chicken wings and shark.
+They would go well baked with  teriyaki sauce .
+They can be  deep-fat fried   like fish .
+Frog Recipes [ edit  |  edit source ]
+Frog's Legs à la Parisienne
+NewPP limit report
+Parsed by mw1350
+Cached time: 20220925061220
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.012 seconds
+Real time usage: 0.020 seconds
+Preprocessor visited node count: 69/1000000
+Post‐expand include size: 859/2097152 bytes
+Template argument size: 129/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.538      1 Template:Seafood
+100.00%    8.538      1 -total
+77.62%    6.627      1 Template:Ingredient
+58.11%    4.961      1 Template:Cookbook_page_type
+19.82%    1.692      1 Template:Displaytitle
+Saved in parser cache with key enwikibooks:pcache:idhash:39441-0!canonical and timestamp 20220925061220 and revision id 3198672.
+Retrieved from " https://en.wikibooks.org/w/index.php?title=Cookbook:Frog&oldid=3198672 "
+Categories :  Ingredients Seafood Esoteric meat and poultry
+Navigation menu
+Personal tools
+Not logged in Discussion for this IP address Contributions Create account Log in
+Namespaces
+Recipe Discussion
+English
+Views
+Read Edit Edit source View history
+More
+Search
+Navigation
+Main Page Help Browse Cookbook Wikijunior Featured books Recent changes Donations Random book Using Wikibooks
+Community
+Reading room forum Community portal Bulletin Board Help out!
+Policies and guidelines Contact us
+Tools
+What links here Related changes Upload file Special pages Permanent link Page information Cite this page
+Sister projects
+Wikipedia Wikiversity Wiktionary Wikiquote Wikisource Wikinews Wikivoyage Commons Wikidata MediaWiki Meta-Wiki
+Print/export
+Create a collection Download as PDF Printable version
+In other languages
+Add links
+This page was last edited on 24 March 2017, at 21:41.
+Text is available under the  Creative Commons Attribution-ShareAlike License ; additional terms may apply.
+By using this site, you agree to the  Terms of Use  and  Privacy Policy.
+Privacy policy
+About Wikibooks
+Disclaimers
+Mobile view
+Developers
+Statistics
+Cookie statement
