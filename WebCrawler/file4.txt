@@ -1,0 +1,816 @@
+
+ 
+ 
+ 
+ 
+  All In One SEO Pack  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Fancybox for WordPress v3.3.1  
+ 
+  END Fancybox for WordPress  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 9]>
+<script src="http://www.thinkoholic.com/wordpress/wp-content/themes/alizee/js/html5shiv.js"></script>
+<![endif] 
+ 
+ 
+  Jetpack Open Graph Tags  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  End Jetpack Open Graph Tags  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content 
+ 
+ 
+ 
+ 
+ Home 
+ categories & tags 
+ about 
+ 
+ privacy policy 
+ 
+ 
+   
+  #site-navigation  
+ 
+ 
+ thinkoholic.com 
+ a blog by markus nolf 
+ 
+ 
+  #masthead  
+ 
+ 
+ 
+ 
+ 
+ time-lapse, part 5: frog spawn 
+ 
+   2005-03-31 2011-11-02   markus    .entry-meta  
+  .entry-header  
+ 
+ i’ve done a new time-lapse project on frog spawn, because i spotted some in my pond. 
+the first post about this can be found  here . 
+ 
+ [skip all of that and download the video] 
+  
+ [ad#right] the phase i wanted to capture, was from the egg until slacking. 
+it would be too hard to record a pollywog’s growth in time-lapse – too much effort and clearly not ethical. 
+you’d have to give them tiny living space so they wouldn’t jet around all the time, or even slow them down somehow. there would have to be a special (=unnatural) way of feeding. water cleanness and oxygen problems would arise, and of course plants etc. would give them unwanted hiding places… 
+and i don’t presume to do that. (the environmentalist is shining through again ;-)) 
+ anyway, i did some internet research and found out the duration of my project would be about 2 weeks. in springlike-pond-climates, of course. it turns out, at room-temperature those little creatures leave their gelatinous eggs in less than 2 days! Ad Injection:random 
+  thinko posts auto topsmall  
+ 
+ 
+   
+the eggs would float around a lot, so i needed to fixate them somehow. 
+ i had the idea of using single-hair-loops, because they’re thinner than any thread i could find, and they were there, sitting right next to me. 
+ i remembered a glimpse of the “lord of the rings, special extended version” audio commentary, where john rhys-davies (playing gimli) mentioned problems with the scene in lothlorien where gimli asks for three hairs from galadriel. the issue was that you couln’t really see a single hair on a tv screen (that’s why they didn’t show that particular scene and made up a little flashback-storytelling dialog). 
+ sandra kindly played along and gave me three of  her  hairs, which were perfect because they’re long and blond (almost elvish ;-)) if you look closely you can see one of them in the bottom-right third of the image (on the very left part of that third). 
+   
+the setting was a little different, this time:  Ad Injection:random 
+  thinko posts auto ver  
+ 
+ 
+ 
+ i used continuous artificial lighting this time, to ensure brightness constance (because i was only using my dlink dsc-350 webcam >> lower level of light sensitivity). 
+  i didn’t cover the whole window with soft tissue, but instead built up a little screen with double-layered tissue, so there would (hopefully) only be very scattered light and no shadows (i didn’t even want soft ones). 
+ 
+   
+what’s that, you want a time-table? there you go! 
+ Ad Injection:random 
+  thinko posts auto topsmall  
+ 
+ 
+ 
+ 
+ date 
+ hours 
+ description 
+ 
+ 
+ 2005-03-23 17:00  
+ -124 
+ noticed frog spawn on the ground of my pond  * 
+ 
+ 
+ 2005-03-28 22:00  
+ 0 
+ took about 1/4 of the egg-cluster and set everything up in my room. eggs still perfectly globated 
+ 
+ 
+ 2005-03-29 08:00  
+ 10 
+ two poles (different in size) are clearly noticeable 
+ 
+ 
+ 2005-03-29 11:00  
+ 13 
+ “black blobs” start wiggling, still elongating; head and tail ends are distinguishable 
+ 
+ 
+ 2005-03-30 04:00  
+ 30 
+ pollywogs now have their typical shape 
+ 
+ 
+ 2005-03-30 11:00  
+ 37 
+ wiggling at full speed, real-time watchable 
+ 
+ 
+ 2005-03-30 15:00  
+ 41 
+ first individuals hatch out 
+ 
+ 
+ 2005-03-30 20:00  
+ 46 
+ most pollywogs have emerged, staying close to the cluster 
+ 
+ 
+ 
+ *  the pond had been ice free for at most 5 days then, so the spawn couldn’t have been very old. Ad Injection:random 
+  thinko posts auto topsmall  
+ 
+ 
+ also note the worm that was roaming the upper left portion from 13:00 to 23:00 on day 1. 
+ ***UPDATE*** 
+the pollywogs that “grew naturally” in my pond hatched close to april 5th, so the 2-week breeding-time does apparently apply in natural conditions. 
+   
+ so here’s the video: 
+ 
+ 
+ 
+   frog-spawn  (download video) 
+ 
+ 
+ 
+ 
+ 
+ 
+ date: starting time: interval: total time: 
+ 
+ 
+ 2005-03-29 05:00 5 minutes 43 hours 
+ 
+ 
+ 
+ 
+ camera: 
+ 
+ D-Link DSC-350 
+ 
+ 
+ 
+ video data: 
+ 
+ mpeg4/xvid – one pass: quality – 20 fps –  qual: 85% ( get the codec  |  help )  
+ 
+ 
+ 
+ video length: 
+ 
+  34 sec. 
+ 
+ 
+ 
+ speedup: 
+ 
+  x 4500 (1 second in the video equals 75 minutes in real-time) 
+ 
+ 
+ 
+ file size: 
+ 
+ 3,5 MB 
+ 
+ 
+ 
+ update:  you might want to see this one, too:  Ad Injection:random 
+  thinko posts auto hor  
+ 
+ 
+ 
+new time-lapse video of frog spawn  in higher quality 
+ [ad#center] 
+ Share this: Email Facebook Twitter Pinterest Tumblr Reddit Pocket    .entry-content  
+ 
+   nature ,  time lapse ,  video   amphibians ,  time lapse  permalink 
+  .entry-footer  
+  #post-##  
+ 
+ 
+  new time-lapse project: frog spawn trip to south tyrol / italy     .nav-links  
+  .navigation  
+ 
+ 
+			11 thoughts on “ time-lapse, part 5: frog spawn ”		 
+ 
+ 
+ 
+ 
+ 
+   Jim Tiller   says:    .comment-author  
+ 
+ 
+ 
+								2005-04-05 at 18:30							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ I am a geography professor at Sam Houston State University in Huntsville TX, USA. I teach an online weather class and would appreciate you giving me permission to make use of your frozen dew photo (    http://markus.nolf.org/pic.php?s=180&img=1627   ) on my class website. I would of course provide credit on the photo. 
+ Appreciate your consideration. 
+ Jim Tiller 
+Professor of Geography 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Greg   says:    .comment-author  
+ 
+ 
+ 
+								2006-04-22 at 12:41							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ Hi, im a biology teacher from the Black Country, near Birmingham in the UK. At the moment i am teaching the life cycle of organisms. I have considered covering the frog, and setting up this experiment. 
+I was wondering if you could send me information about how to setup this experiment, including the equipment and method. 
+Naturally, i will credit you work 
+Thanks alot, and i hope to hear from you soon 
+Greg 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Anonymous   says:    .comment-author  
+ 
+ 
+ 
+								2006-05-09 at 20:39							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ Hello, I’m student on middle school and I’m asking if I can use this video in my presentation. Thanks in advance, you are doing very good work… 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Soraya Badarudin   says:    .comment-author  
+ 
+ 
+ 
+								2006-10-19 at 14:27							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ Hello Markus, i’m a student teacher & i need short video clips on life cycles of a frog for my school presentation. Juz wondering f u have 1? Wud really appreciate it n ofcoz will provide credit on the presentation. tQ! 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Soraya Badarudin   says:    .comment-author  
+ 
+ 
+ 
+								2006-10-19 at 14:29							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ have u received my comment? 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   markus   says:    .comment-author  
+ 
+ 
+ 
+								2006-10-19 at 17:03							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ got your message and will contact you by email. 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Laurie Blum   says:    .comment-author  
+ 
+ 
+ 
+								2006-12-28 at 22:25							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ Dear Marcus, I am trying to obtain a photo of Lesser bird of Paradise to paint from. Can you help me? If yes, I need as sharp detail as possible. 
+Thankyou! 
+Laurie 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Aoife Glass   says:    .comment-author  
+ 
+ 
+ 
+								2007-04-13 at 12:31							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ Dear Marcus, 
+I’m invovled in organising an event on Tadpoles for the Nature Live events program at the Natural History Museum, London, and I was wondering if you could grant us permission to use your frogspawn video? Either the full length or the youtube would be great. It would be part of a session with one of our zoologist, would be show to a live audience, and the event would also be webcast on our website. It may possibly also be archived if permission is allowed for that too. We would of course credit the footage. 
+Many thanks 
+Aoife 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Laura Smith   says:    .comment-author  
+ 
+ 
+ 
+								2008-04-06 at 06:35							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ My son is working on a project/presentation on frogs. Would you grant permission to use this video in his project? 
+ Thanks for your consideration. 
+ Laura 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   Kathy   says:    .comment-author  
+ 
+ 
+ 
+								2013-08-13 at 04:59							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ Hi, I have a question. Not sure if you can help but wanted to ask. I live on a fresh water river which has recently flooded. We had approx. 3 feet of water in our yard for about 2 weeks. When all of the water disappeared we had thousands of tiny frogs which were the size of a fingernail. My question is were the eggs present before the flood or were they deposited as a result of the flood? We rarely saw or heard frogs previously. 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+ 
+ 
+ 
+ 
+   markus   says:    .comment-author  
+ 
+ 
+ 
+								2013-08-17 at 14:16							 
+ 
+  .comment-metadata  
+  .comment-meta  
+ 
+ 
+ hi kathy, 
+it depends on the species of frog. some have very short development times, where 2 weeks could already be enough. after growing legs, young frogs usually spend a few years in grasslands or forests – away from bodies of water – so they could have already been in the vicinity before the flood. 
+ 
+  .comment-content  
+  .comment-body  
+  #comment-##  
+  .comment-list  
+ 
+ Leave a Reply					 Cancel reply 
+ 
+ 
+ 
+ [if !IE]><! 
+ 
+ <![endif] 
+ 
+ 
+ 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+  #comments  
+  #main  
+  #primary  
+ 
+ thinkoholic.com   welcome to markus nolf’s personal blog, with a blend of biology, tech, science, photography, travel, and a pinch of random things. :) 
+ 
+  random photo    the "rummy coup" begins   search blog 
+ 
+ Search for: 
+ 
+ 
+ 
+ archives   archives 
+ 
+ Select Month 
+  March 2021  
+  February 2021  
+  December 2020  
+  April 2020  
+  March 2020  
+  January 2020  
+  October 2019  
+  August 2019  
+  March 2019  
+  January 2019  
+  December 2018  
+  November 2018  
+  October 2018  
+  September 2018  
+  July 2018  
+  June 2018  
+  May 2018  
+  April 2018  
+  January 2018  
+  December 2017  
+  August 2017  
+  June 2017  
+  May 2017  
+  April 2017  
+  March 2017  
+  September 2016  
+  June 2016  
+  May 2016  
+  April 2016  
+  March 2016  
+  January 2016  
+  October 2015  
+  September 2015  
+  August 2015  
+  July 2015  
+  June 2015  
+  May 2015  
+  March 2015  
+  February 2015  
+  October 2014  
+  September 2014  
+  August 2014  
+  July 2014  
+  June 2014  
+  May 2014  
+  April 2014  
+  March 2014  
+  January 2014  
+  December 2013  
+  November 2013  
+  October 2013  
+  September 2013  
+  August 2013  
+  July 2013  
+  June 2013  
+  May 2013  
+  April 2013  
+  February 2013  
+  January 2013  
+  December 2012  
+  November 2012  
+  October 2012  
+  September 2012  
+  August 2012  
+  July 2012  
+  June 2012  
+  May 2012  
+  April 2012  
+  March 2012  
+  February 2012  
+  January 2012  
+  December 2011  
+  November 2011  
+  October 2011  
+  September 2011  
+  August 2011  
+  July 2011  
+  June 2011  
+  April 2011  
+  March 2011  
+  February 2011  
+  January 2011  
+  December 2010  
+  November 2010  
+  October 2010  
+  September 2010  
+  August 2010  
+  June 2010  
+  May 2010  
+  April 2010  
+  March 2010  
+  February 2010  
+  January 2010  
+  November 2009  
+  October 2009  
+  September 2009  
+  July 2009  
+  June 2009  
+  May 2009  
+  April 2009  
+  March 2009  
+  February 2009  
+  January 2009  
+  December 2008  
+  November 2008  
+  October 2008  
+  September 2008  
+  August 2008  
+  July 2008  
+  June 2008  
+  May 2008  
+  April 2008  
+  March 2008  
+  February 2008  
+  January 2008  
+  December 2007  
+  November 2007  
+  October 2007  
+  September 2007  
+  August 2007  
+  July 2007  
+  June 2007  
+  May 2007  
+  April 2007  
+  March 2007  
+  February 2007  
+  January 2007  
+  December 2006  
+  November 2006  
+  October 2006  
+  September 2006  
+  August 2006  
+  July 2006  
+  June 2006  
+  May 2006  
+  April 2006  
+  March 2006  
+  February 2006  
+  January 2006  
+  December 2005  
+  November 2005  
+  October 2005  
+  September 2005  
+  August 2005  
+  July 2005  
+  June 2005  
+  May 2005  
+  April 2005  
+  March 2005  
+  February 2005  
+  January 2005  
+  December 2004  
+  November 2004  
+  October 2004  
+  September 2004  
+  August 2004  
+  July 2004  
+  June 2004  
+  May 2004  
+  April 2004  
+  March 2004  
+  September 2003  
+  July 2003  
+  June 2003  
+  May 2003  
+  April 2003  
+  March 2003  
+  February 2003  
+  December 2002  
+ 
+ 
+ stay in touch!   
+  <a href="https://www.facebook.com/pages/thinkoholiccom/354908237878340" target="_blank" rel="noopener noreferrer"><img alt="Subscribe on Facebook" src="http://thinkoholic.com/wordpress/wp-content/themes/thinko-new/images/facebook-icon-32x32.png" /></a>     
+<a href="http://twitter.com/werenolf" target="_blank" rel="noopener noreferrer"><img alt="Follow me on Twitter" src="http://thinkoholic.com/wordpress/wp-content/themes/thinko-new/images/twitter-icon-32x32.png" /></a>   
+ categories   
+ android  (12)
+ 
+ computers & technology  (110)
+ 
+ contemplative  (10)
+ 
+ fun  (127)
+ 
+ general  (115)
+ 
+ in german  (322)
+ 
+ music  (41)
+ 
+ nature  (177)
+ 
+ bats  (25)
+ 
+ 
+ 
+ photo  (959)
+ 
+ living pictures  (11)
+ 
+ random photos  (42)
+ 
+ 
+ 
+ science  (28)
+ 
+ travel  (138)
+ 
+ via email  (1)
+ 
+ video  (66)
+ 
+ time lapse  (28)
+ 
+ 
+ 
+ 
+ Links 
+ 
+ andi 
+ anton 
+ DataBees 
+ denia 
+ kinder für kinder 
+ leckere rezepte für menschen mit allergien und intoleranzen 
+ lightfield camera news 
+ vom essen besessen 
+ 
+ 
+  #secondary  
+  #content  
+ 
+ 
+ 
+ Proudly powered by WordPress 
+  |  
+				Theme:  Alizee  by aThemes			 
+  .site-info  
+  #colophon  
+  #page  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send to Email Address 
+ 
+ Your Name 
+ 
+ Your Email Address 
+ 
+ 
+ 
+ 
+ Cancel 
+ 
+				Post was not sent - check your email addresses!			 
+ 
+				Email check failed, please try again			 
+ 
+				Sorry, your blog cannot share posts by email.			 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif] 
+ 
+ 
+ 
+ 
+ This site uses cookies:   Find out more. Okay, thanks  custom wrapper class   #catapult-cookie-bar  
+ 

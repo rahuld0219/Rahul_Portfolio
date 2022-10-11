@@ -1,0 +1,279 @@
+Top Title Header
+Begin Top Overall Navigation
+CONTENTS
+Main Page Dynamic Development
+The Foundations of Developmental
+Biology
+Gametogenesis
+From Sperm and Egg to Embryo
+Genetic Regulation of Development
+Organizing the Multicellular
+Embryo
+Generating Cell Diversity
+Dynamic Development at a
+Glance
+Learning Resources
+Research Resources
+The Developmental Biology Journal
+Club
+Developmental Biology Tutorial
+Xenopus  as a Model System in Developmental Biology
+Amphibian embryos were used in the very first embryological experiments,
+when Wilhelm Roux conducted his "hot needle" experiment in an
+attempt to prove his concept of qualitative division.
+Amphibian embryos
+remained the embryos of choice for experimental embryologists for many decades.
+European embryologists used predominantly urodele embryos (such as  Triturus )
+and embryos of the frog  Rana temporaria , which is related to the
+North American species  Rana pipiens .
+Amphibian embryos are large,
+can be obtained in large numbers and can be maintained easily and inexpensively
+in the laboratory.
+They are relatively easy to manipulate with microsurgical
+instruments, and they heal readily after surgery.
+In the early days, those
+instruments were made by hand.
+Studies on embryos were complemented by studies
+on oocytes, which are readily accessible by simple surgery on females.
+One disadvantage of traditional amphibian species is that they are seasonal
+breeders.
+This meant that investigators could not do their experiments throughout
+the year.
+Xenopus laevis , the South African Clawed Frog, is a notable
+exception.
+In fact, it was its ability to spawn when induced with an injection
+of gonadotropic hormone that led to its common usage for human pregnancy
+tests in the 1950s: An injection of pregnancy urine (which contains chorionic
+gonadotropin) would induce spawning.
+This led investigators to consider
+its use in experimental embryology.
+In fact, it was commonly used for experimental
+embryology in South Africa before its utility was recognized elsewhere.
+B.I.
+Balinsky was one of the South African embryologists who used  Xenopus .
+During the 1950s, Fischberg's laboratory in Geneva used  Xenopus
+for studying development.
+His student, John Gurdon, brought attention to
+Xenopus  by demonstrating that transplantation of tadpole intestinal
+epithelial nuclei into enucleated eggs could promote development to the
+adult, thus extending Briggs and King's earlier nuclear transplantation
+research that utilized  Rana pipiens .
+Shortly thereafter, Don Brown,
+Igor Dawid and Ron Reeder in the United States began to use  Xenopus
+for biochemical research.
+In fact, Brown was the first to isolate a eukaryotic
+gene: the  Xenopus  ribosomal RNA genes from oocytes.
+Gradually, the
+ease of obtaining eggs on a year-round basis, the rapid rate of development
+and the availability of mutants such as the anucleolate and albino mutant
+caused investigators began to forsake their favorite frogs and newts for
+the homely  Xenopus .
+Another impetus for investigators to adopt  Xenopus  came in 1971,
+when Gurdon and his colleagues demonstrated that the  Xenopus  oocyte
+will translate messenger RNA injected into it (Gurdon  et al ., 1971).
+This has proven to be a valuable system for the expression of RNA.
+Later,
+when recombinant DNA technology made it possible to clone individual  Xenopus
+genes, injections of synthetic RNA into zygotes allowed investigators to
+overexpress RNA or to express antisense RNA to evaluate the role of a transcript
+during development.
+Meanwhile, in the Netherlands in the late 1960s and early 1970s, P.D.
+Nieuwkoop was investigating inductive interactions during early development
+of urodeles and, later,  Xenopus .
+Using his ingenious animal cap assay,
+he demonstrated that the mesoderm is induced by cells of the vegetal hemisphere.
+This assay has proven to be a valuable weapon in developmental biologists'
+armory.
+The animal cap of the blastula will respond to the appropriate signals
+to produce a variety of tissues.
+This assay has enabled investigators to
+hone in on the most intractable problem in developmental biology: embryonic
+induction.
+We now know that growth factors in the TGF-ß and FGF families
+provide the signals for embryonic induction.
+Clearly,  Xenopus  has a number of advantages that have enabled
+investigators to use it to study many aspects of development.
+However, one
+of the disadvantages has been the lack of a dependable technique for making
+transgenic embryos.
+You can clone its genes, and you can inject RNA into
+zygotes.
+However, RNA is relatively short-lived.
+Therefore, the study of
+molecular events after the mid-blastula transition remained problematic.
+Attempts to inject genes to be expressed in the embryo were frustrated by
+the fact that they do not integrate into the frog chromosomes during cleavage
+and are then unequally distributed in embryonic cells and, therefore, are
+always expressed mosaically.
+This remained the case until 1996, when Kroll
+and Amaya developed a technique for making stable, non-mosaic transgenic
+Xenopus  embryos.
+This technique has the potential to boost the utility
+of  Xenopus  tremendously.
+One big advantage over transgenesis in mice
+is that one can make first generation transgenics; you don't need to wait
+until the next generation to examine the effects of the exogenous gene on
+development.
+The transgenesis technique has several steps, and each step is fraught
+with problems.
+However, when it works, it is very powerful.
+Because exogenous
+genes are not incorporated into the zygotic genome, Kroll and Amaya decided
+to attempt to introduce them into sperm nuclei.
+Sperm nuclei are treated
+with lysolecithin to demembranate them before incubation with linearized
+plasmid containing the exogenous gene to be incorporated into them, along
+with restriction enzyme to create nicks in the sperm nuclear DNA.
+The nicks
+facilitate incorporation of the plasmid DNA.
+The nuclei are then placed
+in an interphase egg extract, which causes the nuclei to swell as if they
+were male pronuclei.
+The swollen nuclei are then injected into unfertilized eggs.
+The suspension
+of nuclei is diluted to optimize the probability that a single nucleus is
+injected.
+The injection process mimics sperm entry, activating development.
+In response, the egg nucleus completes the second meiotic division and forms
+a pronucleus, which fuses with the transplanted nucleus.
+If a single sperm
+nucleus is transplanted, a single pair of centrioles facilitates normal
+cleavage.
+However, if multiple nuclei are transplanted, supernumerary centrioles
+would be present, resulting in abnormal cleavage.
+This would be comparable
+to the effects of dispermy on sea urchin development that  Boveri
+observed.
+To demonstrate the effectiveness of the transgenesis procedure, Kroll
+and Amaya made transgenic embryos from sperm nuclei into which they had
+introduced introduced reporter genes.
+The results are shown in Figures 1
+and 2.
+Figure 1 illustrates the non-mosaic expression of introduced plasmids.
+In Figure 1A and E, the expression of green fluorescent protein (GFP) under
+the control of cytomegalovirus (CMV) promoter is shown.
+This contrasts to
+the mosaic expression of this gene is plasmic-injected embryos (Fig.
+1C).
+The expression of the chloramphenicol acetyltransferase (CAT) gene under
+the control of a neural-specific promoter (N-tubulin) is shown in Figure
+1F and H (transgenic) and Figure 1G (plasmid-injected).
+The transgenic embryo
+shows expression in the neural tube, whereas the plasmid-injected embryo
+shows sparse, mosaic expression.
+A muscle-specific actin promoter was also used to drive expression of
+GFP and CAT.
+As shown in Figure 1J-L and N, appropriate expression in somites
+and cardiac muscle is observed in transgenics, whereas mosaic expression
+is seen in plasmid-injected embryos (Fig.
+1M and O).
+Figure 1.
+Plasmid expression in transgenic
+embryos from sperm nuclear transplantations compared to mosaic expression
+of plasmids injected into embryos.
+A: Trunk of transgenic embryo expressing pCMVnGFP.
+B: DAPI staining of the region shown in A.
+(DAPI stains DNA.)
+C. Expression of GFP in trunk of embryo injected with pCMVnGFP.
+D. DAPI staining of region shown in C.
+E. Transgenic embryo expressing pCMVnGFP.
+F. Transgenic embryo expressing the N-tubulin/CAT plasmid.
+G. Expression of CAT in embryo injected with the N-tubulin/CAT plasmid.
+H. Cross-section of transgenic embryo showing expression of the N-tubulin/CAT
+plasmid in primary neurons.
+I. Bright-field image of transgenic tadpole expressing pCARGFP.
+J. Fluorescent image of tadpole shown in I. GFP expression can be seen in
+somites and heart muscle.
+K. Transgenic expression of pCARGFP in somites.
+L. Transgenic expression of pCARGFP in heart.
+M. Mosaic expression of pCARGFP in plasmid-injected embryo.
+N. Transgenic expression of pRLCAR (CAT driven by muscle-specific actin
+promoter).
+O. Mosaic expression of pRLCAR in plasmid-injected embryo.
+(Figure from Kroll and Amaya, 1996.
+Reproduced with permission of The Company
+of Biologists.)
+Confirmation of integration of plasmids into the genome of transplantation-derived
+embryos was obtained by probing Southern blots of DNA from one month-old
+tadpoles with a GFP probe.
+Typically, unintegrated plasmids would be lost
+by this stage.
+As shown in Figure 2, GFP sequences were found in transplantation-derived
+tadpoles that expressed pCARGFP but were not found in their non-expressing
+siblings.
+Figure 2.
+Tadpoles produced by sperm nuclear
+transplantation contain integrated plasmid.
+(A) Schematic of linearized
+pCARGFP plasmid: cardiac actin promoter (open box), GFP sequences (gray
+box), SV40 polyadenylation site (solid box) and bacterial sequences (thin
+line).
+Below, products expected after pCARGFP concatemerization in the embryo.
+N,  Not I.
+(B) Southern blot of genomic DNA from 1-month-old tadpoles
+produced using pCARGFP nuclear transplantations (lanes 4-11).
+Tadpoles expressing
+GFP non-mosaically (+) and tadpoles not expressing GFP (-) are designated.
+pCARGFP was detected in  Hin dIII (H)-digested genomic DNA using probe
+sequences designated in A.
+Lanes 1-3, pCARGFP plasmid was added to genomic
+DNA from control tadpoles (not produced using nuclear transplantation) just
+prior to  Hin d III digestion.
+(Figure from Kroll and Amaya, 1996.
+Reproduced with permission of The Company of Biologists.)
+We have used the Kroll and Amaya technique to generate transgenic animals
+in my own laboratory (Fig.
+3).
+Click  here  for
+details about research in the Browder laboratory.
+Figure 3.
+Transgenic  Xenopus
+laevis  tadpole expressing the Green Fluorescent Protein gene under control
+of the cytomegalovirus promoter.
+The tadpole was generated by Jill Johnston
+in Leon Browder's laboratory using the technique of Kroll and Amaya.
+A  recent
+paper from Sylvia Evans' laboratory  describes a more direct approach
+for generation of transgenics (Fu  et al.
+, 1998).
+These two techniques,
+combined with the accessibility and ease of manipulation of  Xenopus  embryos,
+should provide investigators with unprecedented opportunities to examine
+the molecular basis of early development.
+Digging Deeper
+The  Xenopus  Molecular
+Marker Resource
+References
+Fu, Y., Wang, Y. and Evans, S.M.
+1998.
+Viral sequences enable efficient
+and tissue-specific expression of trangenes in  Xenopus .
+Nature Biotechnology
+16: 253-257.
+Gurdon, J.B., Lane, C.D., Woodland, H.R.
+and Marbaix, G. 1971.
+Use of
+frog eggs and oocytes for the study of messenger RNA and its translation
+in living cells.
+Nature 233: 177-182.
+Kroll,
+K.L.
+and Amaya, E.  1996.
+Transgenic  Xenopus  embryos from sperm
+nuclear transplantations reveal FGF signaling requirements during gastrulation.
+Development 122: 3173-3183.
+Tutorial Exercise
+Amphibian Tutorial
+End Body   Begin Bottom Overall Navigation
+Dynamic Development
+at a Glance
+Main Page Dynamic Development
+End Bottom Overall Navigation   Page Footer
+Dynamic Development is a Virtual Embryo learning resource
+This material may be reproduced for educational purposes only provided
+credit is given to the original source.
+Leon Browder
+&  Laurie Iten
+(Ed.)
+Dynamic Development
+Last revised Wednesday, March 4, 1998
