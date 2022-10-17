@@ -93,3 +93,11 @@ This project explores Web Crawling and Scraping. Web Crawling is the process of 
 
 #### Skills Exercised
 This project introduced a lot of new concepts to me as I have never done any sort of web scraping before. I learned to use python for web scraping and data processing. 
+
+---
+
+## Sentence Parsing
+You can see the [document here] (SentenceParsing/SentenceParsing.pdf)
+
+### Description
+This project explores the relationships between three forms of sentence parsing commonly used in NLP: PSG Parsing, Dependency Parsing, and SRL Parsing. To demonstrate the similarities and differences between them, the three parses were applied on a moderately complex sentence.
