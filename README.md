@@ -101,3 +101,11 @@ You can see the [document here] (SentenceParsing/SentenceParsing.pdf)
 
 ### Description
 This project explores the relationships between three forms of sentence parsing commonly used in NLP: PSG Parsing, Dependency Parsing, and SRL Parsing. To demonstrate the similarities and differences between them, the three parses were applied on a moderately complex sentence.
+
+---
+
+## Author Attribution
+You can see the [code here](AuthorAttribution/AuthorAttribution.ipynb)
+
+### Description
+This project explores the performance of different ML methods for a classification task on bodies of text. The data for testing and training the models comes from `federalist.csv`. The program classifies the ownership of a body of text based on training data. By comparing  the accuracies of various ML models, we can see the benefits and issues of the different models in a practical usage example.
