@@ -97,7 +97,7 @@ This project introduced a lot of new concepts to me as I have never done any sor
 ---
 
 ## Sentence Parsing
-You can see the [document here] (SentenceParsing/SentenceParsing.pdf)
+You can see the [document here](SentenceParsing/SentenceParsing.pdf)
 
 ### Description
 This project explores the relationships between three forms of sentence parsing commonly used in NLP: PSG Parsing, Dependency Parsing, and SRL Parsing. To demonstrate the similarities and differences between them, the three parses were applied on a moderately complex sentence.
@@ -109,3 +109,22 @@ You can see the [code here](AuthorAttribution/AuthorAttribution.ipynb)
 
 ### Description
 This project explores the performance of different ML methods for a classification task on bodies of text. The data for testing and training the models comes from `federalist.csv`. The program classifies the ownership of a body of text based on training data. By comparing  the accuracies of various ML models, we can see the benefits and issues of the different models in a practical usage example.
+
+---
+
+## ACL Research Summary Paper
+You can see the [document here](ACLPaperSummary/ACL_Paper.pdf)
+
+### Description
+This summary paper was an opportunity to gain exposure to the world of NLP research by analyzing a research paper from the ACL Anthology. The paper I specifically chose was called *"InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection"*.
+
+---
+
+## CarBot
+You can see the [code here](ChatBot/ChatBot.py) and the [document here](ChatBot/ChatBotReport.pdf)
+
+### Description
+CarBot is a chatbot geared towards helping people who want to learn the basics of how cars work. It can answer questions about some of the major beginner to intermediate concepts such as engines, transmissions, fuel, racing, and 7 more topics. The Bot is written in python and uses the Chatterbot library to generate responses using a machine learning model. The model was trained using a knowledge base scraped from https://auto.howstuffworks.com/car.htm. 
+
+#### Skills Exercised
+This project was a culmination of the NLP and ML skills we have learned and practiced throughout the semester as well as new technology I have not used before. Using NLP concepts along with learning how to use the Chatterbot library was very interesting and really helped me see how the concepts we learned actually come together.
